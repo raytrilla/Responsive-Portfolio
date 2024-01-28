@@ -181,10 +181,10 @@ nav ul li a:hover {
   opacity: 3.0;
 }
 
-.naturalis {
+.Horiseon {
   grid-column: 1/3;
   grid-row: span 2;
-  background-image: url("/assets/Images/Frame\ 139.jpg");
+  background-image: url("/assets/Images/fernando-hernandez-pOmr_qQRgiU-unsplash.jpg");
 }
 
 .epure {
@@ -198,7 +198,7 @@ nav ul li a:hover {
 }
 
 .kleyo {
-  background-image: url("//assets/Images/Untitled\ design.png");
+  background-image: url("/assets/Images/Kleyocover.jpg");
 }
 
 .heue {
