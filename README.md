@@ -28,6 +28,7 @@ When the page is resized or viewed on various screens and devices then the layou
 [Showing responsiveness of the portfolio.webm](https://github.com/raytrilla/Responsive-Portfolio/assets/151631423/03bc2661-b4cc-452f-8e16-5b8b934d2038)
 
 Live Portfolio Website link
+https://raytrilla.github.io/Responsive-Portfolio/
 
 Github repository Link
 https://github.com/raytrilla/Responsive-Portfolio
